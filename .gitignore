@@ -1,0 +1,14 @@
+/node_modules
+/*.log
+/dist
+/dist-zip
+*.lock
+dist/options/options.js
+dist/popup/popup.js
+dist
+node_modules
+dist-zip
+src/locale/*.js*
+*.js.map
+*.vue.js
+/package-lock.json
