@@ -11,9 +11,7 @@
   },
   "permissions": [
     "bookmarks",
-    "history",
-    "https://www.google-analytics.com/",
-    "storage"
+    "history"
   ],
   "browser_action": {
     "default_title": "aging-bookmark"
