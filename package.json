@@ -2,7 +2,7 @@
   "name": "aging-bookmark",
   "version": "0.0.1",
   "description": "Bookmark aging tool",
-  "author": "mfuku <mfukushima@mbn.nifty.com>",
+  "author": "mfuku",
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack --hide-modules",
     "lint": "eslint --ext .js,.vue src",
